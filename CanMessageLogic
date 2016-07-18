@@ -1,0 +1,3 @@
+This small piece of code contains Channel information in the CANID
+1.CAN ID has 4 bytes in lenght.
+2.29th and 30th bit is being used for channel information. 
